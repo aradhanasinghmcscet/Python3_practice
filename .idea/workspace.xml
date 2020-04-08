@@ -1,7 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="b6e5a2b5-d5ca-44ff-865e-4cc7ff28ea10" name="Default Changelist" comment="" />
+    <list default="true" id="b6e5a2b5-d5ca-44ff-865e-4cc7ff28ea10" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2D.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -14,7 +18,13 @@
       </list>
     </option>
   </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
   <component name="ProjectId" id="1aCiIVt4skxXV7q2s7AsWp92B5v" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showExcludedFiles" value="true" />
@@ -22,11 +32,12 @@
   </component>
   <component name="PropertiesComponent">
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/app.py" />
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
     <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="RunManager">
-    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="2D" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -38,7 +49,7 @@
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/app.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/2D.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -62,30 +73,30 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586362652901">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586377916311">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586362652901" />
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586377916311" />
     <state x="765" y="82" key="FileChooserDialogImpl" timestamp="1586362602604">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="765" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586362602604" />
-    <state width="531" height="147" key="GridCell.Tab.0.bottom" timestamp="1586363477596">
+    <state width="531" height="147" key="GridCell.Tab.0.bottom" timestamp="1586378970498">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="531" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586363477596" />
-    <state width="531" height="147" key="GridCell.Tab.0.center" timestamp="1586363477596">
+    <state width="531" height="147" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586378970498" />
+    <state width="531" height="147" key="GridCell.Tab.0.center" timestamp="1586378970498">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="531" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586363477596" />
-    <state width="531" height="147" key="GridCell.Tab.0.left" timestamp="1586363477595">
+    <state width="531" height="147" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586378970498" />
+    <state width="531" height="147" key="GridCell.Tab.0.left" timestamp="1586378970498">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="531" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586363477595" />
-    <state width="531" height="147" key="GridCell.Tab.0.right" timestamp="1586363477596">
+    <state width="531" height="147" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586378970498" />
+    <state width="531" height="147" key="GridCell.Tab.0.right" timestamp="1586378970498">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="531" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586363477596" />
+    <state width="531" height="147" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586378970498" />
     <state x="319" y="0" width="914" height="680" key="SettingsEditor" timestamp="1586362255427">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -94,9 +105,9 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586245961123" />
-    <state x="649" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586342419104">
+    <state x="649" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586378744319">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="649" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586342419104" />
+    <state x="649" y="1" width="672" height="678" key="search.everywhere.popup/0.0.1280.680@0.0.1280.680" timestamp="1586378744319" />
   </component>
 </project>
