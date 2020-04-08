@@ -1,0 +1,105 @@
+# print("Aradhana Starts python here!")
+# patientname = 'john smith'
+# age= 20
+# is_existingpatient= True
+# print(patientname, age, is_existingpatient)
+# name = input('What is your name? ')
+# fav_color = input('What is your Favriot color? ')
+# print(' Hi ' + name +  ' likes ' + fav_color)
+# birth_year = input('Birth Year : ')
+# print(type(birth_year))
+# age = 2020 - int(birth_year)
+# print(age)
+# wight_lbs = input('Weight in pounds (lbs) :')
+# wiight_kg = weight_lbs * 0.45
+# [:], [-1]
+# course = 'Python for biginers'
+# print(course[1:-1])
+# first = 'John'
+# last = 'Smith'
+# message = first + ' [' + last + '] is a coder'
+# msg = f'{first} [{last}] is a coder too'
+# print(message)
+# print(msg)
+# print(len(course))
+# print(course.upper())
+# print(course.find('f'))
+# print(course.replace('P', "J"))
+# print('Python' in course)
+# print(course.title())
+# print(10/3)
+# print(10//3)
+# print(10%3)
+# print(10*3)
+# print(10**3) #10 to the power of 3 (exponentiation sign)
+# x=10
+# x = x+3
+# x += 3
+# x-= 3
+# print(x)
+# import math
+# x = 2.9
+# print(round(x))
+# print(abs(-2.9))  # abs always returns +ve number absolute function
+# print(math.ceil(2.9))
+# print(math.floor(2.9))
+# is_hot = False
+# is_cold = False
+# if is_hot:
+#     print("It's a hot day")
+# elif is_cold:
+#     print("it's cold day wear warm cloths")
+# else:
+#     print("It's lovely day")
+# print("Enjoy your day")
+
+# house_price = 10000000
+# is_rich = True
+# if is_rich:
+#     print(int(house_price) - int(house_price)*10/100, '10% discount applied') # 0.1 * house_price
+# else:
+#     print(int(house_price) - int(house_price)*20/100, '20% discount applied')
+#logical operator
+# has_high_income = False
+# has_good_credit = True
+# has_criminal_record = False
+# if has_high_income or has_good_credit and not has_criminal_record:  # and, or
+#     print("Eligible for loan")
+
+# comparision operator
+# temprature = 30
+# if temprature > 30:
+#     print("it's a hot day")
+# elif temprature < 10:
+#     print("It's cold day")
+# else:
+#     print("It's normal day")
+# name = "Aradhana"
+# print(len(name))
+# if(len(name) < 3):
+#     print("Name must be minimum 3 characters")
+# elif(len(name)>50):
+#     print("name must not be more than 50 character")
+# else:
+#     print("It has right length of name")
+
+#while condition: -
+# i = 1
+# while i <= 5:
+#     print('*' * i)
+#     i = i+1
+# print("done!")
+# Guessing game
+secret_number = 9
+guess_count = 0
+guess_limit = 3
+while guess_count < guess_limit:
+   guess = int( input('Guess:'))
+   guess_count += 1
+   if guess == secret_number:
+       print("You won!")
+       break
+   else:
+       print(int(guess_limit - guess_count), " Guess count left")
+else:
+       print('You failed! Better luck next time')
