@@ -4,6 +4,12 @@
 #         return True
 #     else:
 #         return False
+# inp = input('Enter a string ')
+# if isPalindrome(inp):
+#     print(inp, " is a Palindrome.")
+# else:
+#     print(inp, " is not a Palindrome.")
+
 def isPalindromeNum(num):
     k = 0
     orgnum = num
@@ -20,9 +26,3 @@ if isPalindromeNum((inp)):
     print(inp, " is a PAlindrome.")
 else:
     print(inp, " is not a Palindrome.")
-
-# inp = input('Enter a string ')
-# if isPalindrome(inp):
-#     print(inp, " is a Palindrome.")
-# else:
-#     print(inp, " is not a Palindrome.")
