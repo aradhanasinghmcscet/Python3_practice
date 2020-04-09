@@ -42,4 +42,5 @@ aradhana = Person(" Aradhana Singh")
 # print(aradhana.name)
 aradhana.talk()
 
-bob = Person( "Bob ASmith")
+bob = Person( "Bob Smith")
+bob.talk()
