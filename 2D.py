@@ -13,6 +13,8 @@ numbers = [2, 5, 4, 7, 5, 9]
 # # numbers.insert(0,10) # add item
 # numbers.remove(2)  # Remove index clear()
 # numbers.pop(1)
+numbers.sort()
+numbers.reverse()
 print(50 in numbers)
 print(numbers.count(5))
 print(numbers)
