@@ -2,11 +2,21 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e5a2b5-d5ca-44ff-865e-4cc7ff28ea10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/converters.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/inheritance.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning/app.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/Machine_Learning/notes.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerce/shipping.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/ecommerceb2c/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/music.csv" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/packages.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transactions.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/transactions2.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/conditionsclasses.py" beforeDir="false" afterPath="$PROJECT_DIR$/conditionsclasses.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/converters.py" beforeDir="false" afterPath="$PROJECT_DIR$/converters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/practice_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice_file.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,13 +43,14 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
+    <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/modules.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/Machine_Learning/app.py" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
-    <configuration name="modules" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+    <configuration name="app" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
       <module name="HelloWorld" />
       <option name="INTERPRETER_OPTIONS" value="" />
       <option name="PARENT_ENVS" value="true" />
@@ -47,11 +58,11 @@
         <env name="PYTHONUNBUFFERED" value="1" />
       </envs>
       <option name="SDK_HOME" value="" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/Machine_Learning" />
       <option name="IS_MODULE_SDK" value="true" />
       <option name="ADD_CONTENT_ROOTS" value="true" />
       <option name="ADD_SOURCE_ROOTS" value="true" />
-      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/modules.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/Machine_Learning/app.py" />
       <option name="PARAMETERS" value="" />
       <option name="SHOW_COMMAND_LINE" value="false" />
       <option name="EMULATE_TERMINAL" value="false" />
@@ -74,31 +85,34 @@
     </task>
     <servers />
   </component>
+  <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
+  </component>
   <component name="WindowStateProjectService">
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586470051000">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586511062404">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586470051000" />
-    <state x="765" y="82" key="FileChooserDialogImpl" timestamp="1586470048104">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586511062404" />
+    <state x="765" y="82" key="FileChooserDialogImpl" timestamp="1586511058463">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="765" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586470048104" />
-    <state width="517" height="172" key="GridCell.Tab.0.bottom" timestamp="1586470665936">
+    <state x="765" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586511058463" />
+    <state width="517" height="172" key="GridCell.Tab.0.bottom" timestamp="1586511079197">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="517" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586470665936" />
-    <state width="517" height="172" key="GridCell.Tab.0.center" timestamp="1586470665936">
+    <state width="517" height="172" key="GridCell.Tab.0.bottom/0.0.1280.680@0.0.1280.680" timestamp="1586511079197" />
+    <state width="517" height="172" key="GridCell.Tab.0.center" timestamp="1586511079197">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="517" height="172" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586470665936" />
-    <state width="517" height="172" key="GridCell.Tab.0.left" timestamp="1586470665936">
+    <state width="517" height="172" key="GridCell.Tab.0.center/0.0.1280.680@0.0.1280.680" timestamp="1586511079197" />
+    <state width="517" height="172" key="GridCell.Tab.0.left" timestamp="1586511079196">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="517" height="172" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586470665936" />
-    <state width="517" height="172" key="GridCell.Tab.0.right" timestamp="1586470665936">
+    <state width="517" height="172" key="GridCell.Tab.0.left/0.0.1280.680@0.0.1280.680" timestamp="1586511079196" />
+    <state width="517" height="172" key="GridCell.Tab.0.right" timestamp="1586511079197">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state width="517" height="172" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586470665936" />
+    <state width="517" height="172" key="GridCell.Tab.0.right/0.0.1280.680@0.0.1280.680" timestamp="1586511079197" />
     <state x="319" y="0" width="914" height="680" key="SettingsEditor" timestamp="1586465001896">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -107,6 +121,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586464580060" />
+    <state x="123" y="0" width="612" height="680" key="find.popup" timestamp="1586507828915">
+      <screen x="0" y="0" width="1280" height="680" />
+    </state>
+    <state x="123" y="0" width="612" height="680" key="find.popup/0.0.1280.680@0.0.1280.680" timestamp="1586507828915" />
     <state x="649" y="1" width="672" height="678" key="search.everywhere.popup" timestamp="1586463260861">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
