@@ -1,1 +1,19 @@
 # what is machine Learning ?
+
+Steps
+1- import the data
+2- clean the data
+3- split the data into training/test sets
+4- Create Model
+5- Train the Model
+6- Make Predictions
+7- Evaluate and improve
+
+# lib
+Numpy
+Pandas
+MatPlotLib
+Scikit- Learn
+IDE- ////////jupyter
+
+use anaconda

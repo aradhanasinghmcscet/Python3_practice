@@ -2,21 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="b6e5a2b5-d5ca-44ff-865e-4cc7ff28ea10" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/Machine_Learning/app.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Machine_Learning/notes.txt" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerce/shipping.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/ecommerceb2c/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/music.csv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/packages.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transactions.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/transactions2.xlsx" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/utils.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/app.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/converters.py" beforeDir="false" afterPath="$PROJECT_DIR$/converters.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/modules.py" beforeDir="false" afterPath="$PROJECT_DIR$/modules.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/practice_file.txt" beforeDir="false" afterPath="$PROJECT_DIR$/practice_file.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/app.py" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/app.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Machine_Learning/notes.txt" beforeDir="false" afterPath="$PROJECT_DIR$/Machine_Learning/notes.txt" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -46,7 +34,7 @@
     <property name="ASKED_ADD_EXTERNAL_FILES" value="true" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/Machine_Learning/app.py" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../PyShop" />
     <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
   </component>
   <component name="RunManager">
@@ -89,14 +77,14 @@
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
   </component>
   <component name="WindowStateProjectService">
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586511062404">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog" timestamp="1586641666675">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586511062404" />
-    <state x="765" y="82" key="FileChooserDialogImpl" timestamp="1586511058463">
+    <state x="191" y="0" key="#com.intellij.execution.impl.EditConfigurationsDialog/0.0.1280.680@0.0.1280.680" timestamp="1586641666675" />
+    <state x="765" y="82" key="FileChooserDialogImpl" timestamp="1586649853117">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="765" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586511058463" />
+    <state x="765" y="82" key="FileChooserDialogImpl/0.0.1280.680@0.0.1280.680" timestamp="1586649853117" />
     <state width="517" height="172" key="GridCell.Tab.0.bottom" timestamp="1586511079197">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
@@ -117,10 +105,10 @@
       <screen x="0" y="0" width="1280" height="680" />
     </state>
     <state x="319" y="0" width="914" height="680" key="SettingsEditor/0.0.1280.680@0.0.1280.680" timestamp="1586465001896" />
-    <state x="341" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1586464580060">
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog" timestamp="1586641542473">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
-    <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586464580060" />
+    <state x="341" y="164" key="com.intellij.ide.util.TipDialog/0.0.1280.680@0.0.1280.680" timestamp="1586641542473" />
     <state x="123" y="0" width="612" height="680" key="find.popup" timestamp="1586507828915">
       <screen x="0" y="0" width="1280" height="680" />
     </state>
